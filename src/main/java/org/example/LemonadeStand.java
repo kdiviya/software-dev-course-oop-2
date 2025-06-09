@@ -70,7 +70,7 @@ public class LemonadeStand {
     // HINT: You can copy and paste the body of the sellLemonade method and should only need to modify the first line.
     public boolean sellLemonade(int lemons, int sugar, int ice) {
         Lemonade lemonade1 = new Lemonade(lemons, sugar,ice);
-        System.out.println(lemonade1.getLemons());
+
         if (tryMakingLemonade(lemonade1) != null) {
             money += calculateSale(lemonade1);
             return true;

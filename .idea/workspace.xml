@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="303ccc50-aa5e-4f54-be84-fa30f99f558a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="303ccc50-aa5e-4f54-be84-fa30f99f558a" name="Changes" comment="Add Files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Lemonade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Lemonade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LemonadeStand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/LemonadeStand.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +47,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "JUnit.All in software-dev-course-oop-2.executor": "Run",
-    "JUnit.LemonadeStandTests.executor": "Debug",
+    "JUnit.LemonadeStandTests.executor": "Run",
     "JUnit.LemonadeStandTests.testSellLemonadeCustom.executor": "Run",
     "JUnit.LemonadeTests.executor": "Run",
     "JUnit.LemonadeTests.testMix.executor": "Run",
@@ -159,6 +157,19 @@
       <option name="presentableId" value="Default" />
       <updated>1738943620164</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add Files">
+      <option name="closed" value="true" />
+      <created>1749509784046</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749509784046</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Files" />
   </component>
 </project>
